@@ -1,6 +1,4 @@
 # Movie_Recommendation_KNN
-Built a simple movie recommendor using knn.
-
 A recommender system which would recommend the 5 most similar movies to a movie query based on cosine similarity as well as eucledian distance.
 
 I wanted to find out which movies are similar to a given movie. Used kNN algorithm to identify the most similar movies.
